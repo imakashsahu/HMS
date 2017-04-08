@@ -1,0 +1,197 @@
+c:\users\akash\documents\visual studio 2015\Projects\HMS\HMS\bin\Debug\HMS.exe.config
+c:\users\akash\documents\visual studio 2015\Projects\HMS\HMS\bin\Debug\HMS.exe
+c:\users\akash\documents\visual studio 2015\Projects\HMS\HMS\bin\Debug\HMS.pdb
+c:\users\akash\documents\visual studio 2015\Projects\HMS\HMS\obj\Debug\HMS.csprojResolveAssemblyReference.cache
+c:\users\akash\documents\visual studio 2015\Projects\HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+c:\users\akash\documents\visual studio 2015\Projects\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+c:\users\akash\documents\visual studio 2015\Projects\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.Cache
+c:\users\akash\documents\visual studio 2015\Projects\HMS\HMS\obj\Debug\HMS.exe
+c:\users\akash\documents\visual studio 2015\Projects\HMS\HMS\obj\Debug\HMS.pdb
+c:\users\akash\documents\visual studio 2015\Projects\HMS\HMS\obj\Debug\HMS.login.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.Home.resources
+C:\Users\Akash\documents\visual studio 2015\Projects\HMS\HMS\obj\Debug\HMS.Adminlogin.resources
+C:\Users\Akash\documents\visual studio 2015\Projects\HMS\HMS\obj\Debug\HMS.Admin_home.resources
+D:\Hotel Management System\Project 25-3-16\HMS\HMS\bin\Debug\HMS.exe.config
+D:\Hotel Management System\Project 25-3-16\HMS\HMS\obj\Debug\HMS.exe
+D:\Hotel Management System\Project 25-3-16\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.Add_Customer.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.Room.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\data.mdf
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\data_log.ldf
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\bin\Debug\HMS.exe.config
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.exe
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.pdb
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\bin\Debug\data.mdf
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\bin\Debug\data_log.ldf
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\bin\Debug\HMS.exe
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\bin\Debug\HMS.pdb
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.csprojResolveAssemblyReference.cache
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.Add_Customer.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.Adminlogin.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.Admin_home.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.login.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.Room.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.Home.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.Cache
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.room_book.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.report.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.c_details.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.payment.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.about.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.calender.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.food.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.staff.resources
+D:\Hotel Management System\Project 28-3-16\HMS\HMS\obj\Debug\HMS.user.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.about.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.calender.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.c_details.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.food.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.payment.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.report.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.room_book.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.staff.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.user.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.reservation.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.user_v.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.a_staff.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.staff_v.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.AboutBox1.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.csproj.ResolveComReference.cache
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.note.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.guest_v.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.mov_pay.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.mo_pay.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.mv_pay.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.m_pay.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.pay.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.v_pay.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.food_a.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.food_c.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.food_v.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.checkout.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.rn11.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.rn2.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.rn3.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.rn4.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.bill.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.rn12.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.rn13.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.rn14.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.rn21.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.rn22.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.rn23.resources
+C:\Users\Akash\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\Debug\HMS.rn24.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\bin\Debug\HMS.exe.config
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.csproj.ResolveComReference.cache
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.exe
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.pdb
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\bin\Debug\data.mdf
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\bin\Debug\data_log.ldf
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\bin\Debug\HMS.exe
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\bin\Debug\HMS.pdb
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.csprojResolveAssemblyReference.cache
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.about.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.AboutBox1.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Add_Customer.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Adminlogin.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Admin_home.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.a_staff.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.bill.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.calender.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.checkout.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.c_details.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.food_a.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.food_c.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.food_v.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.guest_v.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.mov_pay.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.mo_pay.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.mv_pay.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.m_pay.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.note.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.pay.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn11.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn12.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn13.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn14.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn2.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn21.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn22.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn23.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn24.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn3.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn4.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.staff_v.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.user_v.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.v_pay.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.food.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.login.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.payment.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.report.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.reservation.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Room.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.room_book.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Home.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.staff.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.user.resources
+D:\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.Cache
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\bin\Debug\HMS.exe.config
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.csproj.ResolveComReference.cache
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.exe
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.pdb
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.csprojResolveAssemblyReference.cache
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.about.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.AboutBox1.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Add_Customer.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Adminlogin.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Admin_home.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.a_staff.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.bill.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.calender.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.checkout.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.c_details.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.food_a.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.food_c.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.food_v.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.guest_v.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.mov_pay.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.mo_pay.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.mv_pay.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.m_pay.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.note.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.pay.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn11.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn12.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn13.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn14.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn2.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn21.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn22.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn23.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn24.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn3.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.rn4.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.staff_v.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.user_v.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.v_pay.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.food.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.login.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.payment.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.report.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.reservation.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Room.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.room_book.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Home.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.Properties.Resources.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.staff.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.user.resources
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\obj\Debug\HMS.csproj.GenerateResource.Cache
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\bin\Debug\data.mdf
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\bin\Debug\data_log.ldf
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\bin\Debug\HMS.exe
+D:\akashsahu.com\My Portfolio\Hotel Management System\Project 18-4-16\HMS\HMS\bin\Debug\HMS.pdb
