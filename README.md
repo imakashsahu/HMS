@@ -10,3 +10,17 @@ Admin Password is "123456" which can be accessed when you click on the setting i
 Staff Login
 Username : akash
 Password : 123456
+
+
+ScreenShoots :
+https://ibb.co/iS7PJ5
+https://ibb.co/duimWQ
+https://ibb.co/npH25k
+https://ibb.co/mSuRWQ
+https://ibb.co/bvymWQ
+https://ibb.co/eZ6vQk
+https://ibb.co/i2fdd5
+https://ibb.co/jhn25k
+https://ibb.co/cHqpkk
+https://ibb.co/f7MJd5
+https://ibb.co/dgWJd5
